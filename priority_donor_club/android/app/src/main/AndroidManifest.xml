@@ -1,0 +1,13 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.priority_donor_club">
+
+    <application
+        android:label="priority_donor_club"
+        android:icon="@mipmap/ic_launcher">
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyD98b1SaQHu1wim-SPa-GWgP-_-6cdeguY"/>
+        <!-- Other configurations -->
+    </application>
+
+</manifest>
